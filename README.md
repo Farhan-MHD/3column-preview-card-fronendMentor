@@ -29,7 +29,7 @@ The challenge was to create a responsive landing page for a car rental service. 
 ### Links
 
 - [Solution URL](https://github.com/Farhan-MHD/3column-preview-card-frontendmentor)
-- 
+  
 ## My Process
 
 ### Built With
