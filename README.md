@@ -58,7 +58,7 @@ In future projects, I aim to focus more on accessibility and performance optimiz
 ## Author
 
 - Website - [Your Name](https://www.yourwebsite.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Git Hub - [@yourusername](https://github.com/Farhan-MHD)
 - Twitter - [@yourtwitterhandle](https://www.twitter.com/yourtwitterhandle)
 
 ## Acknowledgments
