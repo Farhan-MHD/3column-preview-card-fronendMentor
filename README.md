@@ -28,9 +28,8 @@ The challenge was to create a responsive landing page for a car rental service. 
 
 ### Links
 
-- [Solution URL](https://github.com/yourusername/your-repo-name)
-- [Live Site URL](https://yourusername.github.io/your-repo-name)
-
+- [Solution URL](https://github.com/Farhan-MHD/3column-preview-card-frontendmentor)
+- 
 ## My Process
 
 ### Built With
@@ -58,7 +57,7 @@ In future projects, I aim to focus more on accessibility and performance optimiz
 ## Author
 
 - Website - [Your Name](https://www.yourwebsite.com)
-- Git Hub - [@yourusername](https://github.com/Farhan-MHD)
+- Git Hub - [Farhan-MHD](https://github.com/Farhan-MHD)
 - Twitter - [@yourtwitterhandle](https://www.twitter.com/yourtwitterhandle)
 
 ## Acknowledgments
